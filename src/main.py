@@ -7,4 +7,4 @@ if __name__ == '__main__':
     config.dictConfig(log_conf)
     logger = getLogger(__name__)
 
-    logger.info('test2')
+    logger.info('Testing xxx.')
