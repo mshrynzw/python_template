@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from common import set_log, set_common
 from logging import getLogger, config
 
